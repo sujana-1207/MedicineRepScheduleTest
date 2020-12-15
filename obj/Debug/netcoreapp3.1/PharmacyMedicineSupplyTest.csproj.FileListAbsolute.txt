@@ -199,3 +199,4 @@ C:\Users\Lenovo\source\repos\MFPE\PharmacyMedicineSupplyTest\bin\Debug\netcoreap
 C:\Users\Lenovo\source\repos\MFPE\PharmacyMedicineSupplyTest\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyTest.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\source\repos\MFPE\PharmacyMedicineSupplyTest\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyTest.dll
 C:\Users\Lenovo\source\repos\MFPE\PharmacyMedicineSupplyTest\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyTest.pdb
+C:\Users\Lenovo\source\repos\MFPE\PharmacyMedicineSupplyTest\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyService.yaml
